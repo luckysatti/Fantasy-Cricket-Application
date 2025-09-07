@@ -1,0 +1,26 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# SQLite database files (keep only the main one if needed)
+*.sqlite
+*.db
+
+# Backup / log files
+*.log
+*.bak
+
+# IDE / editor settings
+.vscode/
+.idea/
+
+# Environment / virtualenv
+.env
+venv/
+ENV/
+env/
+
+# OS generated files
+.DS_Store
+Thumbs.db
