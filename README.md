@@ -49,10 +49,10 @@ _Add some screenshots of your app UI here (like team creation screen, points tab
 ## 📂 Project Structure  
 ```
 fantasy-cricket-app/
-│── main.py              # Entry point of the application
+│── Main_Window.py       # Entry point of the application
 │── db.sqlite3           # SQLite database
-│── ui/                  # Qt Designer UI files
-│── src/                 # Core Python logic files
+│── ui files             # Qt Designer UI files
+│── .py files            # Core Python logic files
 │── README.md            # Project documentation
 │── requirements.txt     # Dependencies
 ```
@@ -66,9 +66,5 @@ fantasy-cricket-app/
 
 ---
 
-## 📝 License  
-This project is licensed under the MIT License. Feel free to use and modify.  
-
----
 
 💡 *Developed with ❤️ using Python & Qt Designer.*  
